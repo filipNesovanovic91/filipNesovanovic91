@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Filip Nesovanovic
 - 👀 I’m interested in MERN and MEAN.
-- 🌱 I’m currently learning .Net and Django.
+- 🌱 I’m currently learning .NET
 - 💞️ I’m looking to collaborate on enterprise or startup
 - 📫 How to reach me filnesupw@gmail.com
